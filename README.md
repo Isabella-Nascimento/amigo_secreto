@@ -34,9 +34,8 @@ Responsivo: Funciona perfeitamente em dispositivos móveis, tablets e desktops.
 
 * Clique em "Reiniciar" e realizar um novo sorteio.
 
-## Onde encontrar o projeto
+## Link do projeto
 
-https://amigo-secreto-inky-ten.vercel.app/
 
 ## Autor do projeto
 
