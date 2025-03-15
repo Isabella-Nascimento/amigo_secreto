@@ -36,6 +36,7 @@ Responsivo: Funciona perfeitamente em dispositivos móveis, tablets e desktops.
 
 ## Link do projeto
 
+https://amigo-secreto-three-steel.vercel.app/
 
 ## Autor do projeto
 
